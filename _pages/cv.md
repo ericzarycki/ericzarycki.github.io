@@ -9,7 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://github.com/ericzarycki/ericzarycki.github.io/blob/master/files/Eric_Zarycki_Resume.pdf" download>Download a copy</a>
+<div class="cv-download-links">
+<a href="{{ base_path }}/files/Eric_Zarycki_Resume.pdf" class="btn btn--primary">
+  Download a copy
+</a>
+</div>
 ==========
 
 Education
