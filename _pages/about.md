@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Eric Zarycki
-=============
+
 Data Analyst focused on Marketing & Web and Customer & Behavior analytics.
 
 About Me
