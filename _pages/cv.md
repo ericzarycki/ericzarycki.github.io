@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+[download a copy](files/Eric_Zarycki_Resume.pdf)
+==========
+
 Education
 ======
 **University of South Florida**
@@ -50,7 +53,7 @@ Skills
 SQL, R, Excel, Word, Tableau, DB2, Snowflake, MySQL, Google Analytics, Python
 
   
-Service and leadership
+Service and Leadership
 ======
 * **USF**, T.E.A.M (Transfer Engagement and Achievement Mentorship) Student Mentor
 
