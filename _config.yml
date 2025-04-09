@@ -22,12 +22,12 @@ repository               : "ericzarycki/ericzarycki.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "zarycki_headshot.png"
   name             : "Eric Zarycki"
   pronouns         : # example: "she/her"  
-  bio              : "Data Analyst driven by experimentation and focused on turning complex data into actionable insights."
+  bio              : "Data Analyst"
   location         : "Brooklyn, NY"
-  employer         : "ex-IBM"
+  employer         : "IBM"
   uri              : # URL
   email            : "ericdzarycki@gmail.com" 
 

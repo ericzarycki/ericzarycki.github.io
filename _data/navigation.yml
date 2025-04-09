@@ -15,17 +15,17 @@ main:
   #   url: /talks/    
 
   # - title: "Teaching"
-  #   url: /teaching/    
+  #   url: /teaching/  
+
+  - title: "Resume"
+    url: /cv/
     
   - title: "Portfolio"
     url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
-    
-  - title: "Resume"
-    url: /cv/
-    
+        
   # - title: "CV"
   #   url: /cv-json/
     
