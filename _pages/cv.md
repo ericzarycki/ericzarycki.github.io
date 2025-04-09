@@ -10,11 +10,10 @@ redirect_from:
 {% include base_path %}
 
 <div class="cv-download-links">
-<a href="{{ base_path }}/files/Eric_Zarycki_Resume.pdf" class="btn btn--primary">
+<a href="{{ base_path }}/files/Eric_Zarycki_Resume.pdf" class="btn btn--primary" download>
   Download a copy
 </a>
 </div>
-==========
 
 Education
 ======
