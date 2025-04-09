@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[download a copy](files/Eric_Zarycki_Resume.pdf)
+<a href="https://github.com/ericzarycki/ericzarycki.github.io/blob/master/files/Eric_Zarycki_Resume.pdf" download>Download a copy</a>
 ==========
 
 Education
