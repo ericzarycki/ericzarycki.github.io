@@ -22,7 +22,7 @@ repository               : "ericzarycki/ericzarycki.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "zarycki_headshot.png"
+  avatar           : "Eric_Zarycki_headshot.jpg"
   name             : "Eric Zarycki"
   pronouns         : # example: "she/her"  
   bio              : "Data Analyst"
