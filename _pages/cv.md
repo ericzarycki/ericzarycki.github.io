@@ -28,7 +28,7 @@ Work experience
 ======
 * **IBM**, Marketing Data Analyst 
 
-   *August 2024 - April 2025*
+   *August 2024 - June 2025*
   * Spearheaded a 3-month analysis into over 1,000 buying groups, examining content-driven conversion and group formation.
 Findings were presented to 100+ stakeholders, including the VP of Data Science and Analytics and the CMO of Consulting.
   * Optimized project tracking systems in IBM’s Marketing Analytics and Data Science team, streamlining deadline and progress
