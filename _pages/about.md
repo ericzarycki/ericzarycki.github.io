@@ -7,18 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-
-Data Analyst focused on Marketing & Web and Customer & Behavior analytics.
+Hello!
 
 About Me
 -------------
 
-
-
-Hire Me
---------------
-
-Maybe you need help on a data task. Or help preparing for an interview. Hire me on Upwork and let's see what we can do. 
+As a Solutions Engineer with a background in data science and analytics, I turn complex data into strategic insights and impactful solutions. Explore my portfolio to see how I leverage data to build scalable, high-impact business tools.
 
 
 
